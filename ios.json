@@ -1,0 +1,237 @@
+[
+  {
+    "Model": "iPhone 13 Pro",
+    "ScreenSize": "1170 x 2532",
+    "ViewportSize": "390 x 844"
+  },
+  {
+    "Model": "iPhone XR",
+    "ScreenSize": "828 x 1792",
+    "ViewportSize": "414 x 896"
+  },
+  {
+    "Model": "iPhone XS",
+    "ScreenSize": "1125 x 2436",
+    "ViewportSize": "375 x 812"
+  },
+  {
+    "Model": "iPhone XS Max",
+    "ScreenSize": "1242 x 2688",
+    "ViewportSize": "414 x 896"
+  },
+  {
+    "Model": "iPhone X",
+    "ScreenSize": "1125 x 2436",
+    "ViewportSize": "375 x 812"
+  },
+  {
+    "Model": "iPhone 8 Plus",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "414 x 736"
+  },
+  {
+    "Model": "iPhone 8",
+    "ScreenSize": "750 x 1334",
+    "ViewportSize": "375 x 667"
+  },
+  {
+    "Model": "iPhone 7 Plus",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "414 x 736"
+  },
+  {
+    "Model": "iPhone 7",
+    "ScreenSize": "750 x 1334",
+    "ViewportSize": "375 x 667"
+  },
+  {
+    "Model": "iPhone 6 Plus/6S Plus",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "414 x 736"
+  },
+  {
+    "Model": "iPhone 6/6S",
+    "ScreenSize": "750 x 1334",
+    "ViewportSize": "375 x 667"
+  },
+  {
+    "Model": "iPhone 5",
+    "ScreenSize": "640 x 1136",
+    "ViewportSize": "320 x 568"
+  },
+  {
+    "Model": "iPod Touch",
+    "ScreenSize": "640 x 1136",
+    "ViewportSize": "320 x 568"
+  },
+  {
+    "Model": "iPad Pro",
+    "ScreenSize": "2048 x 2732",
+    "ViewportSize": "1024 x 1366"
+  },
+  {
+    "Model": "iPad Third & Fourth Generation",
+    "ScreenSize": "1536 x 2048",
+    "ViewportSize": "768 x 1024"
+  },
+  {
+    "Model": "iPad Air 1 & 2",
+    "ScreenSize": "1536 x 2048",
+    "ViewportSize": "768 x 1024"
+  },
+  {
+    "Model": "iPad Mini 2 & 3",
+    "ScreenSize": "1536 x 2048",
+    "ViewportSize": "768 x 1024"
+  },
+  {
+    "Model": "iPad Mini",
+    "ScreenSize": "768 x 1024",
+    "ViewportSize": "768 x 1024"
+  },
+  {
+    "Model": "Nexus 6P",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "412 x 732"
+  },
+  {
+    "Model": "Nexus 5X",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "412 x 732"
+  },
+  {
+    "Model": "Google Pixel 7 Pro",
+    "ScreenSize": "1440 x 3120",
+    "ViewportSize": "412 x 771"
+  },
+  {
+    "Model": "Google Pixel 4 XL",
+    "ScreenSize": "1440 x 869",
+    "ViewportSize": "412 x 869"
+  },
+  {
+    "Model": "Google Pixel 4",
+    "ScreenSize": "1080 x 2280",
+    "ViewportSize": "412 x 869"
+  },
+  {
+    "Model": "Google Pixel 3a XL",
+    "ScreenSize": "1080 x 2160",
+    "ViewportSize": "412 x 824"
+  },
+  {
+    "Model": "Google Pixel 3a",
+    "ScreenSize": "1080 x 2220",
+    "ViewportSize": "412 x 846"
+  },
+  {
+    "Model": "Google Pixel 3 XL",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "412 x 847"
+  },
+  {
+    "Model": "Google Pixel 3",
+    "ScreenSize": "1080 x 2160",
+    "ViewportSize": "412 x 824"
+  },
+  {
+    "Model": "Google Pixel 2 XL",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "412 x 732"
+  },
+  {
+    "Model": "Google Pixel XL",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "412 x 732"
+  },
+  {
+    "Model": "Google Pixel",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "412 x 732"
+  },
+  {
+    "Model": "Samsung Galaxy Note 10+",
+    "ScreenSize": "1440 x 3040",
+    "ViewportSize": "412 x 869"
+  },
+  {
+    "Model": "Samsung Galaxy Note 10",
+    "ScreenSize": "1080 x 2280",
+    "ViewportSize": "412 x 869"
+  },
+  {
+    "Model": "Samsung Galaxy Note 9",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "360 x 740"
+  },
+  {
+    "Model": "Samsung Galaxy Note 5",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "480 x 853"
+  },
+  {
+    "Model": "LG G5",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "480 x 853"
+  },
+  {
+    "Model": "One Plus 3",
+    "ScreenSize": "1080 x 1920",
+    "ViewportSize": "480 x 853"
+  },
+  {
+    "Model": "Samsung Galaxy S9+",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "360 x 740"
+  },
+  {
+    "Model": "Samsung Galaxy S9",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "360 x 740"
+  },
+  {
+    "Model": "Samsung Galaxy S8+",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "360 x 740"
+  },
+  {
+    "Model": "Samsung Galaxy S8",
+    "ScreenSize": "1440 x 2960",
+    "ViewportSize": "360 x 740"
+  },
+  {
+    "Model": "Samsung Galaxy S7 Edge",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "360 x 640"
+  },
+  {
+    "Model": "Samsung Galaxy S7",
+    "ScreenSize": "1440 x 2560",
+    "ViewportSize": "360 x 640"
+  },
+  {
+    "Model": "Nexus 9",
+    "ScreenSize": "1536 x 2048",
+    "ViewportSize": "768 x 1024"
+  },
+  {
+    "Model": "Nexus 7 (2013)",
+    "ScreenSize": "1200 x 1920",
+    "ViewportSize": "600 x 960"
+  },
+  {
+    "Model": "Pixel C",
+    "ScreenSize": "1800 x 2560",
+    "ViewportSize": "900 x 1280"
+  },
+  {
+    "Model": "Samsung Galaxy Tab 10",
+    "ScreenSize": "800 x 1280",
+    "ViewportSize": "800 x 1280"
+  },
+  {
+    "Model": "Chromebook Pixel",
+    "ScreenSize": "2560 x 1700",
+    "ViewportSize": "1280 x 850"
+  }
+]
